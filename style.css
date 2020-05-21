@@ -1,0 +1,27 @@
+html {
+  margin: 100;
+  padding: 0;
+  font-family: fantasy;
+  background-image: url(canva.png);
+}
+
+div.txtinp{
+ font-family: fantasy;
+ border: 2px solid purple;
+ margin-top: 10%;
+ margin-left: 40%; 
+ margin-right: 42.5%;
+ 
+}
+div.btn{
+  margin-left: 40%;
+  margin-right: 51.599%;
+  margin-top: 5%;
+  cursor: pointer;
+  border: 2px solid purple;
+}
+
+div.titletxt{
+  margin-left: 29.5999%;
+}
+
